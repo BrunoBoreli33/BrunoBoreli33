@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou um Desenvolvedor Backend</p>
+<p align="left">Sou um Desenvolvedor com foco no Backend👩‍💻</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎯 Trabalho como Freelancer<br>📚 Atualmente estou aprendendo Spring Boot<br>🎲 E-mail para contato: contatobrunoboreli@gmail.com</p>
+<p align="left">🎯 Trabalho atualmente como Freelancer<br>📚 Atualmente estou estudando Docker e Kubernetes<br>📧 E-mail para contato: contatobrunoboreli@gmail.com</p>
 
 ###
 
@@ -33,10 +33,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
+
+###
+
+<h2 align="left"></h2>
 
 ###
 
