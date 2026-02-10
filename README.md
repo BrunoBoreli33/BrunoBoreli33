@@ -1,4 +1,4 @@
-<h1 align="center">Eae👋 Meu nome é Bruno — Desenvolvedor Backend</h1>
+<h1 align="center">Eae 👋 Meu nome é Bruno — Desenvolvedor Backend</h1>
 
 <p align="center">
   Desenvolvedor Backend | Java & Spring Boot | APIs REST | PostgreSQL | Arquitetura de Sistemas | Integração Backend–Frontend
