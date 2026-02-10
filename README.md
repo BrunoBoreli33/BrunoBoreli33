@@ -6,7 +6,7 @@
 
 ---
 
-### 💼 Sobre Mim
+### <h2 align="left">💼 Sobre Mim</h2>
 
 - 👨‍💻 Desenvolvedor Backend com foco em APIs REST e arquitetura de sistemas
 - ⚙️ Desenvolvimento de aplicações usando Java + Spring Boot
@@ -22,7 +22,7 @@
 
 ###
 
-<h2 align="left">Tecnologias e Ferramentas</h2>
+<h2 align="left">👨‍💻 Tecnologias e Ferramentas</h2>
 
 💡 Habilidades essenciais: Java · Spring Boot · APIs REST · PostgreSQL · Docker · Git · GitHub · React · TypeScript · AWS S3 · Integração Backend–Frontend
 ###
