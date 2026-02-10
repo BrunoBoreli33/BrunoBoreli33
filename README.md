@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎯 Trabalho atualmente como Freelancer<br>📚 Atualmente estou estudando DevOps<br>📧 E-mail para contato: contatobrunoboreli@gmail.com</p>
+<p align="left">🎯 Trabalho atualmente como Freelancer<br>📚 Estou estudando DevOps<br>📧 E-mail para contato: contatobrunoboreli@gmail.com</p>
 
 ###
 
