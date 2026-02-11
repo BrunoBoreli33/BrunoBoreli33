@@ -65,22 +65,12 @@
 
 ###
 ---
-### 🚀 Featured Projects
 
-- 🎮 [Unreal CI/CD]: Automates macOS builds for Unreal Engine using GitHub Actions and Self-hosted runners
-- ⚙️ [PowerShell Dev Setup](https://github.com/atchiullia/powershell-setup): SSH & GitHub environment automation with onboarding benefits
-- 💼 [Static Website Deployment with Terraform, AWS, and GitHub Actions](https://github.com/atchiullia/Portfolio_Giu): Apply DevOps and IaC (Infrastructure as Code) practices to create a scalable, secure, and monitored deployment process.
+### 🔗 Vamos nos conectar
 
----
-
-###
-
-### 🔗 Let's Connect
-
-- 🌐 [Portfolio Website](https://giullialazaro.com)  
-- 💼 [GitHub](https://github.com/atchiullia)  
-- 🐳 [Docker Hub](https://hub.docker.com/r/atchiullia/giullialazaro)  
-- ✉️ Email: giullialazaro@gmail.com
+- 🌐 [Portfolio Website](https://brunoboreli.com)   
+- 💼 [GitHub](https://github.com/BrunoBoreli33)  
+- ✉️ Email: contatobrunoboreli@gmail.com
 
 
 
